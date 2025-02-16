@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>resume</div>;
+  return <div>resume 2</div>;
 }
